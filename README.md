@@ -1,6 +1,6 @@
 # Justin Sun's User Page
 
-![Profile Image](img/profile.jpg|width=100px)
+![Profile Image](img/profile.jpg)
 
 I'm a third-year undergraduate student studying Computer Engineering at the University of California, San Diego. You can find my projects and contact information below.
 
